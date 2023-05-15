@@ -1,7 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/s-rx3t9_)
 
-
-
 **Leader:** Karim Abdelnaby Ahmed Mahmoud
 
 **Members:**
@@ -48,16 +46,14 @@ There are six different types of pieces; king, rook, bishop, queen, knight, and 
    f) Knight:
    - Moves in an L shape: two squares horizontally or vertically, and then three squares in the perpendicular direction.
 
-![](https://github.com/Ashmawy21/test/blob/86ed2927f9112b14e9feea377da637dd530f740d/ChessBoardGUI(1).png)
+![Chess Board](https://github.com/Ashmawy21/test/blob/86ed2927f9112b14e9feea377da637dd530f740d/ChessBoardGUI(1).png)
 
 ---
 
 ***first***
 
-We made Uml diagram.
+We made a UML diagram.
 
-![](https://github.com/Ashmawy21/finalproject_chessgame-team-seven/blob/5d5744e5cdae07f84e4ef354f441a9c035163b35/01_deliverables/Team07_UML_Diagram%20(2).jpg)
+![UML Diagram](https://github.com/Ashmawy21/finalproject_chessgame-team-seven/blob/5d5744e5cdae07f84e4ef354f441a9c035163b35/01_deliverables/Team07_UML_Diagram%20(2).jpg)
 
 ---
-
-
