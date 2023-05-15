@@ -46,5 +46,5 @@ There are six different types of pieces; king, rook, bishop, queen, knight, and 
    f) Knight:
    - Moves in an L shape: two squares horizontally or vertically, and then three squares in the perpendicular direction.
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](D:\Programming\java_code\Name\ChessBoardGUI(1).png)
 
