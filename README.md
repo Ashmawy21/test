@@ -11,6 +11,7 @@
 - Luay Khaled Abdelmonem Al-Islamboly
 
 **Description**
+
 Chess is played on a board of 64 squares alternate between two colors: light (e.g. white) and dark (e.g. black).
 A player’s army consists of 16 pieces that begin play on the two ranks closest to that player.
 There are six different types of pieces; king, rook, bishop, queen, knight, and pawn. Each has a different appearance and moves.
